@@ -1,4 +1,4 @@
-<h1>**Visit it here: https://onedevlox.github.io/Project3-Todo-App/**</h1>
+<h2>Visit it here: https://onedevlox.github.io/Project3-Todo-App/</h2>
 -----------------------------------------------------------------------------------------------------------------------------------
 
 
