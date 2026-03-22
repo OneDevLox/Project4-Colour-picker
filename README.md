@@ -1,4 +1,4 @@
-<h2>Visit it here: https://onedevlox.github.io/Project3-Todo-App/</h2>
+<h2>Visit it here: https://onedevlox.github.io/Project4-Colour-picker/</h2>
 -----------------------------------------------------------------------------------------------------------------------------------
 
 
